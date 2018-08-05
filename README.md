@@ -1,6 +1,6 @@
 # It is a Dogs vs Cats classifier using Convolutional Neural Netwroks
 
-#Libraries used :
+## Libraries used :
 
 Keras
 
