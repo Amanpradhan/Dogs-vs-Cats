@@ -4,9 +4,9 @@
 
 Keras
 
-Performance metrics: Our accuracy, before augmentation, which was about 50%. After doing data augmentation, it was nearly 75%.
+## Performance metrics: Our accuracy, before augmentation, which was about 50%. After doing data augmentation, it was nearly 75%.
 
-What else can be done to further improve our model : 
+## What else can be done to further improve our model : 
 
 Use larger dataset - The original dataset was containing 12500 images each, out of which we took only 1000.
 
